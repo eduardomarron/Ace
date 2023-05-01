@@ -132,8 +132,8 @@ http://198.245.53.172:8970/live/A5CRR5QWBSD4/REYQHKAHAQ3P/129542.ts
 #EXTINF:-1  tvg-id="NAT GEO WILD HD" tvg-logo="https://cdn.evrimagaci.org/n4xwG5vd1TgUQGvRFZirF3oxzI8=/evrimagaci.org%2Fpublic%2Fmi_media%2Fc80138ad18cdcc028536f5b7ded45c67.jpeg" group-title="01_ACESTREAM", @ NAT GEO WILD
 acestream://82fc15374047fb04b38e5b4a034a62d4ac3b2478
 
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png",Canal Odisea
+#EXTINF:-1  tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png",Canal Odisea
 http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/399?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951
 
-#EXTINF:-1  group-title="Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png",Canal Odisea HD
+#EXTINF:-1  tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png",Canal Odisea HD
 http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/3829?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951

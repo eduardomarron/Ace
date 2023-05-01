@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-id="M+ #VAMOSHD" tvg-logo="https://pbs.twimg.com/profile_images/1536273492710150145/dX1sFhs3_400x400.png" group-title="01_ACESTREAM", @ M+ #VAMOS 1080
+acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+
+#EXTINF:-1  tvg-id="M+ #VAMOSHD" tvg-logo="https://pbs.twimg.com/profile_images/1536273492710150145/dX1sFhs3_400x400.png" group-title="01_ACESTREAM", @ M+ #VAMOS 720
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+
+#EXTINF:-1  tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="01_ACESTREAM", @ M. LaLiga 1080 MultiAudio
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+
+#EXTINF:-1  tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="01_ACESTREAM", @ M. LaLiga 1080 MultiAudio
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+
+#EXTINF:-1  tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="01_ACESTREAM", @ M. LaLiga 1080
+acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+
+#EXTINF:-1  tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="01_ACESTREAM", @ M. LaLiga 720
+acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+
+#EXTINF:-1  tvg-id="X" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="01_ACESTREAM", @ M. LaLiga 2 1080
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+
+#EXTINF:-1  tvg-id="X" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="01_ACESTREAM", @ M. LaLiga 2 720
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+
+#EXTINF:-1  tvg-id="X" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="01_ACESTREAM", @ LaLiga Tv Bar 1080
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+
+#EXTINF:-1  tvg-id="X" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="01_ACESTREAM", @ LaLiga Tv Bar 720
+acestream://e3249feb41ca1e68f38cf9bd9a196d6b3f873032
+
+#EXTINF:-1  tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg" group-title="01_ACESTREAM", @ DAZN LaLiga 1080 MultiAudio
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+
+#EXTINF:-1  tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg" group-title="01_ACESTREAM", @ DAZN LaLiga 1080 MultiAudio
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+
+#EXTINF:-1  tvg-id="DAZN LaLigaHD" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg" group-title="01_ACESTREAM", @ DAZN LaLiga 720
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+
+#EXTINF:-1  tvg-id="DAZN 2" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg" group-title="01_ACESTREAM", @ DAZN LaLiga 2 1080 MultiAudio
+acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+
+#EXTINF:-1  tvg-id="DAZN 2" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/07/dazn-laliga-santander.jpg" group-title="01_ACESTREAM", @ DAZN LaLiga 2 720 MultiAudio
+acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+
+#EXTINF:-1  tvg-id="LaLiga SmartbankTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="01_ACESTREAM", @ LaLiga Smartbank 1080
+acestream://7791ba828c0226d8f54cef1611889d29fb333247
+
+#EXTINF:-1  tvg-id="LaLiga SmartbankTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="01_ACESTREAM", @ LaLiga Smartbank 720
+acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
+
+#EXTINF:-1  tvg-id="M+DEPORTESHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="01_ACESTREAM", @ M. Deportes 1080
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+
+#EXTINF:-1  tvg-id="M+DEPORTESHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="01_ACESTREAM", @ M. Deportes 720
+acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+
+#EXTINF:-1  tvg-id="M+DEPORTES2HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="01_ACESTREAM", @ M. Deportes 2 1080
+acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+
+#EXTINF:-1  tvg-id="M+DEPORTES3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="01_ACESTREAM", @ M. Deportes 3 1080
+acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
+
+#EXTINF:-1  tvg-id="X" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="01_ACESTREAM", @ M. Deportes 4 1080
+acestream://08db089084ddbaceba7c239817407bf99708b9ad
+
+#EXTINF:-1  tvg-id="M+LCAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="01_ACESTREAM", @ M.L. Campeones 1080 MultiAudio
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+
+#EXTINF:-1  tvg-id="M+LCAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="01_ACESTREAM", @ M.L. Campeones 1080 MultiAudio
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+
+#EXTINF:-1  tvg-id="M+LCAMPEONES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="01_ACESTREAM", @ M.L. Campeones 720
+acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+
+#EXTINF:-1  tvg-id="X" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="01_ACESTREAM", @ M.L. Campeones 2 1080
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
+#EXTINF:-1  tvg-id="X" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="01_ACESTREAM", @ M.L. Campeones 2 720
+acestream://2d584c7335ff44f97c3cf64947892ef30fde715c
+
+#EXTINF:-1  tvg-id="DAZN 1" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg" group-title="01_ACESTREAM", @ DAZN 1 1080
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+
+#EXTINF:-1  tvg-id="DAZN 1" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg" group-title="01_ACESTREAM", @ DAZN 1 720
+acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+
+#EXTINF:-1  tvg-id="DAZN 2" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg" group-title="01_ACESTREAM", @ DAZN 2 1080
+acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+
+#EXTINF:-1  tvg-id="DAZN 2" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg" group-title="01_ACESTREAM", @ DAZN 2 720
+acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
+
+#EXTINF:-1  tvg-id="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/320px-DAZN_F1_logo.svg.png" group-title="01_ACESTREAM", @ DAZN F1 1080 (F1) a)
+acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+
+#EXTINF:-1  tvg-id="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/320px-DAZN_F1_logo.svg.png" group-title="01_ACESTREAM", @ DAZN F1 1080 (F1) b)
+acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+
+#EXTINF:-1  tvg-id="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/320px-DAZN_F1_logo.svg.png" group-title="01_ACESTREAM", @ DAZN F1 720 (F1)
+acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
+
+#EXTINF:-1  tvg-id="EUROSPORT1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/320px-Eurosport_logo_%282001-2011%29.svg.png" group-title="01_ACESTREAM", @ EuroSport 1 1080
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+
+#EXTINF:-1  tvg-id="EUROSPORT2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/320px-Eurosport_logo_%282001-2011%29.svg.png" group-title="01_ACESTREAM", @ EuroSport 2 1080
+acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+
+#EXTINF:-1  tvg-id="X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/800px-Bein_sport_logo.png" group-title="01_ACESTREAM", @ Bein Sport N
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
+#EXTINF:-1  tvg-id="M+ #0 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/0/j/p/x0.jpg.pagespeed.ic.JuON_gmF3Q.jpg" group-title="01_ACESTREAM", @ #0 de Movistar 1080
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
+#EXTINF:-1  tvg-id="M+ #0 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/0/j/p/x0.jpg.pagespeed.ic.JuON_gmF3Q.jpg" group-title="01_ACESTREAM", #0 de Movistar SD
+http://198.245.53.172:8970/live/A5CRR5QWBSD4/REYQHKAHAQ3P/179303.ts
+
+#EXTINF:-1  tvg-id="NAT GEO HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-logo.jpg" group-title="01_ACESTREAM", NAT GEO
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69316.ts
+
+#EXTINF:-1  tvg-id="NAT GEO WILD HD" tvg-logo="https://cdn.evrimagaci.org/n4xwG5vd1TgUQGvRFZirF3oxzI8=/evrimagaci.org%2Fpublic%2Fmi_media%2Fc80138ad18cdcc028536f5b7ded45c67.jpeg" group-title="01_ACESTREAM", NAT GEO WILD
+http://198.245.53.172:8970/live/A5CRR5QWBSD4/REYQHKAHAQ3P/86219.ts
+
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://www.famouslogos.org/wp-content/uploads/2013/04/logo-discovery.jpg" group-title="01_ACESTREAM",DISCOVERY 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
+
+#EXTINF:-1  tvg-id="CANAL ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="01_ACESTREAM", ODISEA
+http://198.245.53.172:8970/live/A5CRR5QWBSD4/REYQHKAHAQ3P/129542.ts
+
+#EXTINF:-1  tvg-id="NAT GEO WILD HD" tvg-logo="https://cdn.evrimagaci.org/n4xwG5vd1TgUQGvRFZirF3oxzI8=/evrimagaci.org%2Fpublic%2Fmi_media%2Fc80138ad18cdcc028536f5b7ded45c67.jpeg" group-title="01_ACESTREAM", @ NAT GEO WILD
+acestream://82fc15374047fb04b38e5b4a034a62d4ac3b2478

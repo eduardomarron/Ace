@@ -3,7 +3,7 @@
 #EXTINF:-1  tvg-id="M+ #VAMOSHD" tvg-logo="https://i.postimg.cc/XNwR4GkG/logo-canal-vamos.png" group-title="01_ACESTREAM", @ M+ #VAMOS 1080
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
-#EXTINF:-1  tvg-id="M+ #VAMOSHD" tvg-logo="https://pbs.twimg.com/profile_images/1536273492710150145/dX1sFhs3_400x400.png" group-title="01_ACESTREAM", @ M+ #VAMOS 720
+#EXTINF:-1  tvg-id="M+ #VAMOSHD" tvg-logo="https://i.postimg.cc/XNwR4GkG/logo-canal-vamos.png" group-title="01_ACESTREAM", @ M+ #VAMOS 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
 #EXTINF:-1  tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="01_ACESTREAM", @ M. LaLiga 1080 MultiAudio
@@ -93,13 +93,13 @@ acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
 #EXTINF:-1  tvg-id="DAZN 2" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg" group-title="01_ACESTREAM", @ DAZN 2 720
 acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
 
-#EXTINF:-1  tvg-id="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/320px-DAZN_F1_logo.svg.png" group-title="01_ACESTREAM", @ DAZN F1 1080 (F1) a)
+#EXTINF:-1  tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="01_ACESTREAM", @ DAZN F1 1080 (F1) a)
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 
-#EXTINF:-1  tvg-id="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/320px-DAZN_F1_logo.svg.png" group-title="01_ACESTREAM", @ DAZN F1 1080 (F1) b)
+#EXTINF:-1  tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="01_ACESTREAM", @ DAZN F1 1080 (F1) b)
 acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 
-#EXTINF:-1  tvg-id="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/320px-DAZN_F1_logo.svg.png" group-title="01_ACESTREAM", @ DAZN F1 720 (F1)
+#EXTINF:-1  tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/gcRrcDwT/DaznF1.png" group-title="01_ACESTREAM", @ DAZN F1 720 (F1)
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
 
 #EXTINF:-1  tvg-id="EUROSPORT1HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/320px-Eurosport_logo_%282001-2011%29.svg.png" group-title="01_ACESTREAM", @ EuroSport 1 1080

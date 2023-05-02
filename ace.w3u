@@ -2,16 +2,12 @@
 "name": "Acestrean Edu",
 "author": "",
 "image": "https://images3.alphacoders.com/595/595865.jpg",
-"url": "",
-"groups":
-    [
-		{
-         "name": "España Tv",
-         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
-         "url": "https://raw.githubusercontent.com/eduardomarron/Ace/main/ace.m3u",
-         "info":"",
-         "import": false
-        }
+"url": ""
 
-]
+    
+		
+
+
+
+
 }

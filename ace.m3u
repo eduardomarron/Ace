@@ -114,26 +114,21 @@ acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1  tvg-id="M+ #0 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/0/j/p/x0.jpg.pagespeed.ic.JuON_gmF3Q.jpg" group-title="01_ACESTREAM", @ #0 de Movistar 1080
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
-#EXTINF:-1  tvg-id="M+ #0 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/0/j/p/x0.jpg.pagespeed.ic.JuON_gmF3Q.jpg" group-title="01_ACESTREAM", #0 de Movistar SD
+#EXTINF:-1  tvg-id="M+ #0 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/0/j/p/x0.jpg.pagespeed.ic.JuON_gmF3Q.jpg" group-title="OTROS", #0 de Movistar SD
 http://198.245.53.172:8970/live/A5CRR5QWBSD4/REYQHKAHAQ3P/179303.ts
 
-#EXTINF:-1  tvg-id="NAT GEO HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-logo.jpg" group-title="01_ACESTREAM", NAT GEO
+#EXTINF:-1  tvg-id="NAT GEO HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-logo.jpg" group-title="OTROS", NAT GEO
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69316.ts
 
-#EXTINF:-1  tvg-id="NAT GEO WILD HD" tvg-logo="https://cdn.evrimagaci.org/n4xwG5vd1TgUQGvRFZirF3oxzI8=/evrimagaci.org%2Fpublic%2Fmi_media%2Fc80138ad18cdcc028536f5b7ded45c67.jpeg" group-title="01_ACESTREAM", NAT GEO WILD
+#EXTINF:-1  tvg-id="NAT GEO WILD HD" tvg-logo="https://cdn.evrimagaci.org/n4xwG5vd1TgUQGvRFZirF3oxzI8=/evrimagaci.org%2Fpublic%2Fmi_media%2Fc80138ad18cdcc028536f5b7ded45c67.jpeg" group-title="OTROS", NAT GEO WILD
 http://198.245.53.172:8970/live/A5CRR5QWBSD4/REYQHKAHAQ3P/86219.ts
 
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://www.famouslogos.org/wp-content/uploads/2013/04/logo-discovery.jpg" group-title="01_ACESTREAM",DISCOVERY 
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://www.famouslogos.org/wp-content/uploads/2013/04/logo-discovery.jpg" group-title="OTROS",DISCOVERY 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
 
-#EXTINF:-1  tvg-id="CANAL ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="01_ACESTREAM", ODISEA
+#EXTINF:-1  tvg-id="CANAL ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="OTROS", ODISEA
 http://198.245.53.172:8970/live/A5CRR5QWBSD4/REYQHKAHAQ3P/129542.ts
 
-#EXTINF:-1  tvg-id="NAT GEO WILD HD" tvg-logo="https://cdn.evrimagaci.org/n4xwG5vd1TgUQGvRFZirF3oxzI8=/evrimagaci.org%2Fpublic%2Fmi_media%2Fc80138ad18cdcc028536f5b7ded45c67.jpeg" group-title="01_ACESTREAM", @ NAT GEO WILD
-acestream://82fc15374047fb04b38e5b4a034a62d4ac3b2478
-
-#EXTINF:-1  tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png",Canal Odisea
+#EXTINF:-1  tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="OTROS",Canal Odisea
 http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/399?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951
 
-#EXTINF:-1  tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png",Canal Odisea HD
-http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/3829?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951

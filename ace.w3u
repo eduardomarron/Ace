@@ -1,13 +1,18 @@
 {
-"name": "Acestrean Edu",
-"author": "",
-"image": "https://images3.alphacoders.com/595/595865.jpg",
-"url": "https://raw.githubusercontent.com/eduardomarron/Ace/main/ace.m3u"
-
-    
-		
-
-
-
-
+"name": "Tv Shows",
+"author": "edu",
+"image": "https://giffiles.alphacoders.com/211/211426.gif",
+"url": "https://pastebin.com/7rf6m9ba",
+"telegram": "@yIsus_mEx",
+"info":"@yIsus_mEx",
+"groups":
+    [
+		{
+         "name": "España Tv",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+         "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/Spain.m3u",
+         "info":"",
+         "import": false
+        }
+    ]
 }

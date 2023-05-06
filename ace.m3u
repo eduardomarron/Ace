@@ -114,21 +114,95 @@ acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1  tvg-id="M+ #0 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/0/j/p/x0.jpg.pagespeed.ic.JuON_gmF3Q.jpg" group-title="01_ACESTREAM", @ #0 de Movistar 1080
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
-#EXTINF:-1  tvg-id="M+ #0 HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/0/j/p/x0.jpg.pagespeed.ic.JuON_gmF3Q.jpg" group-title="OTROS", #0 de Movistar SD
-http://198.245.53.172:8970/live/A5CRR5QWBSD4/REYQHKAHAQ3P/179303.ts
 
-#EXTINF:-1  tvg-id="NAT GEO HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/National-Geographic-logo.jpg" group-title="OTROS", NAT GEO
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5714.ts
 
-#EXTINF:-1  tvg-id="NAT GEO WILD HD" tvg-logo="https://cdn.evrimagaci.org/n4xwG5vd1TgUQGvRFZirF3oxzI8=/evrimagaci.org%2Fpublic%2Fmi_media%2Fc80138ad18cdcc028536f5b7ded45c67.jpeg" group-title="OTROS", NAT GEO WILD
-http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5715.ts
 
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://www.famouslogos.org/wp-content/uploads/2013/04/logo-discovery.jpg" group-title="OTROS",DISCOVERY 
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="SPAIN FHD",ES: MULTI DEPORTE
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5713.ts
+
+#EXTINF:0 tvg-id="M+ #VAMOSHD" group-title="SPAIN SPORT FHD",ES: M+ #VAMOS
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5630.ts
+
+#EXTINF:0 tvg-id="M+ LaLiga HD" group-title="SPAIN SPORT FHD",ES: (UHD) M+ LALIGA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54535.ts
+#EXTINF:0 tvg-id="M+ LaLiga HD" group-title="SPAIN SPORT FHD",ES: (HD) M+ LALIGA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5758.ts
+#EXTINF:0 tvg-id="M+ LaLiga HD" group-title="SPAIN SPORT FHD",ES: (FHD) M+ LALIGA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54532.ts
+
+#EXTINF:0 tvg-id="DAZN LaLigaHD" group-title="SPAIN SPORT FHD",ES: DAZN LALIGA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25125.ts
+#EXTINF:0 tvg-id="DAZN LaLigaHD" group-title="SPAIN SPORT FHD",ES: DAZN LALIGA FHD
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54668.ts
+#EXTINF:0 tvg-id="DAZN LaLigaHD" group-title="SPAIN SPORT FHD",ES: DAZN LALIGA 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25127.ts
+
+#EXTINF:0 tvg-id="DAZN 1" group-title="SPAIN SPORT FHD",ES: DAZN 1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5589.ts
+#EXTINF:0 tvg-id="DAZN 2" group-title="SPAIN SPORT FHD",ES: DAZN 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5590.ts
+#EXTINF:0 tvg-id="DAZN 3" group-title="SPAIN SPORT FHD",ES: DAZN 3
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5591.ts
+#EXTINF:0 tvg-id="DAZN 4" group-title="SPAIN SPORT FHD",ES: DAZN 4
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5592.ts
+#EXTINF:0 tvg-id="DAZN F1 HD" group-title="SPAIN SPORT FHD",ES: DAZN F1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5593.ts
+
+#EXTINF:0 tvg-id="M+LCAMPEONES" group-title="SPAIN SPORT FHD",ES: (HD) M+ LIGA DE CAMPEONES
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5671.ts
+#EXTINF:0 tvg-id="M+LCAMPEONES" group-title="SPAIN SPORT FHD",ES: (FHD) M+ LIGA DE CAMPEONES
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54531.ts
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: M+ LIGA DE CAMPEONES 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5663.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT FHD",ES: ESPN DEPORTES
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5605.ts
+#EXTINF:0 tvg-id="EUROSPORT1HD" group-title="SPAIN SPORT FHD",ES: EUROSPORT 1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5607.ts
+#EXTINF:0 tvg-id="EUROSPORT2HD" group-title="SPAIN SPORT FHD",ES: EUROSPORT 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5608.ts
+
+#EXTINF:0 tvg-id="M+DEPORTESHD" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5643.ts
+#EXTINF:0 tvg-id="M+DEPORTESHD" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 1
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5638.ts
+#EXTINF:0 tvg-id="M+DEPORTES2HD" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 2
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5639.ts
+#EXTINF:0 tvg-id="M+DEPORTES3" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 3
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5640.ts
+#EXTINF:0 tvg-id="M+DEPORTES4" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 4
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5641.ts
+#EXTINF:0 tvg-id="M+DEPORTES5" group-title="SPAIN SPORT FHD",ES: M+ DEPORTES 5
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5681.ts
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="M+ #0 HD" group-title="SPAIN FHD",ES: M+ #0
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5546.ts
+#EXTINF:0 tvg-id="DISCOVERY" group-title="SPAIN FHD",ES: DISCOVERY
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5594.ts
-
-#EXTINF:-1  tvg-id="CANAL ODISEA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="OTROS", ODISEA
+#EXTINF:0 tvg-id="DiscoveryMAX.es" group-title="SPAIN FHD",ES: DISCOVERY MAX
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5601.ts
+#EXTINF:0 tvg-id="HISTORIA" group-title="SPAIN FHD",ES: HISTORIA
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5618.ts
+#EXTINF:0 tvg-id="NAT GEO" group-title="SPAIN FHD",ES: NAT GEO
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5714.ts
+#EXTINF:0 tvg-id="NAT GEO WILD" group-title="SPAIN FHD",ES: NAT GEO WILD
+http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5715.ts
+#EXTINF:0 tvg-id="CANAL ODISEA" group-title="SPAIN FHD",ES: ODISEA
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5724.ts
 
-#EXTINF:-1  tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="OTROS",Canal Odisea
-http://73d961cc007f8474d1998b78e70c1f5f.spa.iscaja.me:25461/oAK5I2ad4s/986881925256/399?h=8870e112a9cbc321467fbc04bdc9a862c740c190&z=83.138.40.70&i=2951
+
+
 

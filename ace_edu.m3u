@@ -118,7 +118,7 @@ acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
 
 
-#EXTINF:0 tvg_id="M+ LaLiga HD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", ES: (UHD) M+ LALIGA
+#EXTINF:0 tvg_id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="SPAIN SPORT FHD", ES: (UHD) M+ LALIGA
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54535.ts
 #EXTINF:0 tvg_id="M+ LaLiga HD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", ES: (HD) M+ LALIGA
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5758.ts

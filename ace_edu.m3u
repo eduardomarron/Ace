@@ -118,55 +118,55 @@ acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
 
 
-#EXTINF:0 tvg_id="M+ LaLiga HD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", ES: (UHD) M+ LALIGA
+#EXTINF:0 tvg_id="M+ LaLiga HD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", ES: (UHD) M+ LALIGA
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54535.ts
-#EXTINF:0 tvg_id="M+ LaLiga HD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", ES: (HD) M+ LALIGA
+#EXTINF:0 tvg_id="M+ LaLiga HD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", ES: (HD) M+ LALIGA
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5758.ts
-#EXTINF:0 tvg_id="M+ LaLiga HD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", ES: (FHD) M+ LALIGA
+#EXTINF:0 tvg_id="M+ LaLiga HD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png", ES: (FHD) M+ LALIGA
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54532.ts
-#EXTINF:0 tvg_id="M+ LaLiga 2 HD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png", ES: M+ LALIGA 2 (MATCH TIME)
+#EXTINF:0 tvg_id="M+ LaLiga 2 HD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png", ES: M+ LALIGA 2 (MATCH TIME)
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5651.ts
-#EXTINF:0 tvg_id="DAZN LaLigaHD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", ES: DAZN LALIGA
+#EXTINF:0 tvg_id="DAZN LaLigaHD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", ES: DAZN LALIGA
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25125.ts
-#EXTINF:0 tvg_id="DAZN LaLigaHD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", ES: DAZN LALIGA FHD
+#EXTINF:0 tvg_id="DAZN LaLigaHD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png", ES: DAZN LALIGA FHD
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54668.ts
-#EXTINF:0 tvg_id="DAZN LaLiga2 HD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png", ES: DAZN LALIGA 2
+#EXTINF:0 tvg_id="DAZN LaLiga2 HD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png", ES: DAZN LALIGA 2
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/25127.ts
-#EXTINF:0 tvg_id="DAZN 1" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png", ES: DAZN 1
+#EXTINF:0 tvg_id="DAZN 1" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png", ES: DAZN 1
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5589.ts
-#EXTINF:0 tvg_id="DAZN 2" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png", ES: DAZN 2
+#EXTINF:0 tvg_id="DAZN 2" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png", ES: DAZN 2
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5590.ts
-#EXTINF:0 tvg_id="DAZN F1 HD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", ES: DAZN F1
+#EXTINF:0 tvg_id="DAZN F1 HD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", ES: DAZN F1
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5593.ts
-#EXTINF:0 tvg_id="M+LCAMPEONES" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", ES: (HD) M+ LIGA DE CAMPEONES
+#EXTINF:0 tvg_id="M+LCAMPEONES" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", ES: (HD) M+ LIGA DE CAMPEONES
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5671.ts
-#EXTINF:0 tvg_id="M+LCAMPEONES" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", ES: (FHD) M+ LIGA DE CAMPEONES
+#EXTINF:0 tvg_id="M+LCAMPEONES" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", ES: (FHD) M+ LIGA DE CAMPEONES
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/54531.ts
-#EXTINF:0 tvg_id="M+LCAMPEON2" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png", ES: M+ LIGA DE CAMPEONES 2
+#EXTINF:0 tvg_id="M+LCAMPEON2" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png", ES: M+ LIGA DE CAMPEONES 2
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5663.ts
-#EXTINF:0 tvg_id="ESPN DEPORTES" group-title="SPAIN SPORT FHD" tv-logo="0", ES: ESPN DEPORTES
+#EXTINF:0 tvg_id="ESPN DEPORTES" group-title="SPAIN SPORT FHD" tvg-logo="0", ES: ESPN DEPORTES
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5605.ts
-#EXTINF:0 tvg_id="EUROSPORT1HD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", ES: EUROSPORT 1
+#EXTINF:0 tvg_id="EUROSPORT1HD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", ES: EUROSPORT 1
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5607.ts
-#EXTINF:0 tvg_id="EUROSPORT2HD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png", ES: EUROSPORT 2
+#EXTINF:0 tvg_id="EUROSPORT2HD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png", ES: EUROSPORT 2
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5608.ts
-#EXTINF:0 tvg_id="LALIGATV BAR" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png", ES: M+ LALIGATV BAR
+#EXTINF:0 tvg_id="LALIGATV BAR" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png", ES: M+ LALIGATV BAR
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5661.ts
-#EXTINF:0 tvg_id="BEINESP" group-title="SPAIN SPORT FHD" tv-logo="0", ES: BEIN SPORTS ESPANA
+#EXTINF:0 tvg_id="BEINESP" group-title="SPAIN SPORT FHD" tvg-logo="0", ES: BEIN SPORTS ESPANA
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/24040.ts
-#EXTINF:0 tvg_id="M+DEPORTESHD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", ES: M+ DEPORTES
+#EXTINF:0 tvg_id="M+DEPORTESHD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", ES: M+ DEPORTES
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5643.ts
-#EXTINF:0 tvg_id="M+DEPORTESHD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", ES: M+ DEPORTES 1
+#EXTINF:0 tvg_id="M+DEPORTESHD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", ES: M+ DEPORTES 1
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5638.ts
-#EXTINF:0 tvg_id="M+DEPORTES2HD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png", ES: M+ DEPORTES 2
+#EXTINF:0 tvg_id="M+DEPORTES2HD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png", ES: M+ DEPORTES 2
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5639.ts
-#EXTINF:0 tvg_id="M+DEPORTES3" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png", ES: M+ DEPORTES 3
+#EXTINF:0 tvg_id="M+DEPORTES3" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png", ES: M+ DEPORTES 3
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5640.ts
-#EXTINF:0 tvg_id="M+DEPORTES4" group-title="SPAIN SPORT FHD" tv-logo="0", ES: M+ DEPORTES 4
+#EXTINF:0 tvg_id="M+DEPORTES4" group-title="SPAIN SPORT FHD" tvg-logo="0", ES: M+ DEPORTES 4
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5641.ts
-#EXTINF:0 tvg_id="M+DEPORTES5" group-title="SPAIN SPORT FHD" tv-logo="0", ES: M+ DEPORTES 5
+#EXTINF:0 tvg_id="M+DEPORTES5" group-title="SPAIN SPORT FHD" tvg-logo="0", ES: M+ DEPORTES 5
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5681.ts
-#EXTINF:0 tvg_id="M+ #VAMOSHD" group-title="SPAIN SPORT FHD" tv-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", ES: M+ #VAMOS
+#EXTINF:0 tvg_id="M+ #VAMOSHD" group-title="SPAIN SPORT FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png", ES: M+ #VAMOS
 http://pikasolu.top:8080/live/61677426049169070/1831677426049169/5630.ts
 
 

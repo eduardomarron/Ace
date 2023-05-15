@@ -6,7 +6,7 @@ acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1  tvg-id="M+ #VAMOSHD" tvg-logo="https://i.postimg.cc/XNwR4GkG/logo-canal-vamos.png" group-title="01_ACESTREAM", @ M+ #VAMOS 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
-#EXTINF:-1  tvg-id="M+ LaLiga HD" tvg-logo="https://github.com/eduardomarron/Ace/blob/main/logos/movistar_liga.png" group-title="01_ACESTREAM", @ M. LaLiga 1080 MultiAudio
+#EXTINF:-1  tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="01_ACESTREAM", @ M. LaLiga 1080 MultiAudio
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 
 #EXTINF:-1  tvg-id="M+ LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="01_ACESTREAM", @ M. LaLiga 1080 MultiAudio

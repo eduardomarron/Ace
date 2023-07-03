@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="DAZN 1 1080p" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="ACE"
+#EXTINF:-1 tvg-name="DAZN 1 1080p" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png " group-title="ACE"
 acestream://8ca07071b39185431f8e940ec98d1add9e561639 
 
 

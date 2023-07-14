@@ -45,7 +45,7 @@ acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png",M+ #Vamos 1080p
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png",M+ #Vamos 720p
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f 
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 1080p
 acestream://d00223931b1854163e24c5c22475015d7d45c112 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 720p
@@ -120,9 +120,9 @@ acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png",M+ #0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png",Barça TV
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png",BarÃ§a TV
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-n-85.png",beIN SPORTS ñ
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-n-85.png",beIN SPORTS Ã±
 acestream://41af6926a6010b68ba2540975761436bb077748f 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbXFprF3/tennis.png",Tennis Channel
 acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36 

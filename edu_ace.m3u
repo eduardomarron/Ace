@@ -1,221 +1,222 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN 1 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN 1 1080p 8ca0
 acestream://8ca07071b39185431f8e940ec98d1add9e561639 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN 1 720p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN 1 720p eaff
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",DAZN 2 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",DAZN 2 1080p 60db
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",DAZN 2 720p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",DAZN 2 720p 7aa4
 acestream://7aa402bab9fff43258fbcf401881a39475f30aaf 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",DAZN 3
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",DAZN 3 a8ff
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",DAZN 4
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",DAZN 4 2fcd
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1 1080p 5789
 acestream://5789ca155323664edd293b848606688edf803f4d 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1 alt. 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1 alt. 1080p 9dad
 acestream://9dad717d99b29a05672166258a77c25b57713dd5 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1 720p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",DAZN F1 720p e1fc
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png",DAZN LaLiga 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png",DAZN LaLiga 1080p 1960
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png",DAZN LaLiga alt. 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png",DAZN LaLiga alt. 1080p 7525
 acestream://75251ba975132ec9a202806ba5bf606e87280c96 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png",DAZN LaLiga 720p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png",DAZN LaLiga 720p a3bc
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28psx1TB/daznliga2.png",DAZN LaLiga 2 1080p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28psx1TB/daznliga2.png",DAZN LaLiga 2 1080p 93d6
 acestream://93d663e92a93845b11c9831885646fa39ba1ed66 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/28psx1TB/daznliga2.png",DAZN LaLiga 2 720p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28psx1TB/daznliga2.png",DAZN LaLiga 2 720p 0950
 acestream://0950c37fe1ea817fc561c611ae943d58505f7a79 
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-co-1258.png",ESPN Colombia
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-co-1258.png",ESPN Colombia 2492
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00 
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nl-espn-extra-2507.png",ESPN Extra Colombia
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-nl-espn-extra-2507.png",ESPN Extra Colombia 9c3f
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612 
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-2-co-1259.png",ESPN 2 Colombia
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-espn-2-co-1259.png",ESPN 2 Colombia e40b
 acestream://e40b29774fdfd953751a71f5695f647726623b9d 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-3-243.png",ESPN 3 Colombia
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nl-espn-3-243.png",ESPN 3 Colombia b97f
 acestream://b97f5975dbd067655432512d4693b417bc85a714 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png",EuroSport 1
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png",EuroSport 1 5e4c
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png",EuroSport 2
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png",EuroSport 2 c373
 acestream://c373da9e901d414b7384e671112e64d5a2310c29 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png",ELLAS #V
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png",ELLAS #V 6765
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png",M+ #Vamos 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png",M+ #Vamos 1080p 859b
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png",M+ #Vamos 720p
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png",M+ #Vamos 720p 0e18
+acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 1080p d002
 acestream://d00223931b1854163e24c5c22475015d7d45c112 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 720p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 720p e5fa
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png",M+ Deportes 2
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png",M+ Deportes 2 e6f0
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png",M+ Deportes 3
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png",M+ Deportes 3 aee0
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 4
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 4 42e8
 acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 5
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 5 b1e5
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 6
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png",M+ Deportes 6 8587
 acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png",M+ Golf
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png",M+ Golf 4f94
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",M+ LaLiga 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",M+ LaLiga 1080p 7d8c
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",M+ LaLiga alt. 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",M+ LaLiga alt. 1080p 1969
 acestream://1969c27658d4c8333ab2c0670802546121a774a5 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",M+ LaLiga 720p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png",M+ LaLiga 720p f031
 acestream://f031f5728b32f6089dda28edebe990cf198108d8 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dt8CsBmm/liga2.png",M+ LaLiga 2 1080p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dt8CsBmm/liga2.png",M+ LaLiga 2 1080p 37d4
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dt8CsBmm/liga2.png",M+ LaLiga 2 720p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dt8CsBmm/liga2.png",M+ LaLiga 2 720p 91cf
 acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18 
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1837.png",M+ LaLiga 3
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1837.png",M+ LaLiga 3 4c48
 acestream://4c4844564313e39a888f593511f299f5ba3cf929 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png",M+ LaLiga Smartbank 1080p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png",M+ LaLiga Smartbank 1080p 4c46
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png",M+ LaLiga Smartbank 720p
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png",M+ LaLiga Smartbank 720p 06b3
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4c 
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2835.png",M+ LaLiga Smartbank TV2 1080p
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2835.png",M+ LaLiga Smartbank TV2 1080p cf62
 acestream://cf6249379184d88a61f9db617341c6b6e6abb342 
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2835.png",M+ LaLiga Smartbank TV2 720p
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2835.png",M+ LaLiga Smartbank TV2 720p d9cf
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png",M+ LaLiga Smartbank TV3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png",M+ LaLiga Smartbank TV3 59ba
 acestream://59ba45b79152e4599144177b234f6491fc19db53 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png",M+ LaLiga TV BAR
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png",M+ LaLiga TV BAR aa82
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 1080p a4ee
 acestream://a4ee6f9590351d2c88c416f9962af82c7e1ce816 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones alt. 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones alt. 1080p 0457
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 720p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 720p 90be
 acestream://90beb42e9e276854348bc91a9ff3c3e46c617495 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png",M+ Liga de Campeones 2 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png",M+ Liga de Campeones 2 1080p dfff
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png",M+ Liga de Campeones 2 720p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png",M+ Liga de Campeones 2 720p 2d58
 acestream://2d584c7335ff44f97c3cf64947892ef30fde715c 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png",M+ Liga de Campeones 3 1080p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png",M+ Liga de Campeones 3 1080p ecf4
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png",M+ Liga de Campeones 3 720p
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png",M+ Liga de Campeones 3 720p d59f
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png",M+ Liga de Campeones 4
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png",M+ Liga de Campeones 4 1a1b
 acestream://1a1b528109edead1904e3dbff575637a452dd1fa 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png",M+ Liga de Campeones 5
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png",M+ Liga de Campeones 5 4b4a
 acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png",M+ Liga de Campeones 6
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png",M+ Liga de Campeones 6 e995
 acestream://e9950ec551124c490ecbc2526a83d2c5a4516293 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png",M+ Liga de Campeones 7
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png",M+ Liga de Campeones 7 d84a
 acestream://d84a90adb6998083403f610ab3fae340b5711b1e 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png",M+ Liga de Campeones 8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png",M+ Liga de Campeones 8 fdd9
 acestream://fdd9e3660059051660dbd7857443c2b807f258d0 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 9
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 9 69c9
 acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 10
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 10 df67
 acestream://df67afe5c5f5e82a3ae629d126727b006b65e676 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 11
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 11 57e2
 acestream://57e284a3c13100baeff7a88dc50949585c9f1277 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 12
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png",M+ Liga de Campeones 12 3336
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png",M+ #0
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png",M+ #0 864f
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png",Barça TV
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png",Barça TV e336
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-n-85.png",beIN SPORTS ñ
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-n-85.png",beIN SPORTS ñ 41af
 acestream://41af6926a6010b68ba2540975761436bb077748f 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbXFprF3/tennis.png",Tennis Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbXFprF3/tennis.png",Tennis Channel 9292
 acestream://9292d3b32432efb56db4014933cbdec0a7cf2e36 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png",Sport TV 1
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png",Sport TV 1 ce23
 acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",Sport TV 2
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",Sport TV 2 396d
 acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",Sport TV 3
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png",Sport TV 3 f8cb
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png",NBA USA 1
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png",NBA USA 1 39db
 acestream://39db49bc89dcc3c8797566231f869dca57f1a47e 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png",NBA USA 2
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png",NBA USA 2 f1c8
 acestream://f1c84ec8ea0c0bfff8a24272b66c64354a522110 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a29.png",ESPN USA
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a29.png",ESPN USA 4b49
 acestream://4b4907de51ec11087d4bed5876f2a0c68264f442 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a32.png",ESPN 2 USA
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a32.png",ESPN 2 USA 664e
 acestream://664eb5fe460b96941aed633959a845b185cd8394 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a60.png",FOX SPORTS USA
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a60.png",FOX SPORTS USA c9c0
 acestream://c9c062941fbecb16ce29437f346ea7177d720898 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a61.png",FOX SPORTS 2 USA
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a61.png",FOX SPORTS 2 USA cba8
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png",BT Sport 1 UK
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png",BT Sport 1 UK efc6
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a100.png",BT Sport 2 UK
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a100.png",BT Sport 2 UK d63d
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a108.png",BT Sport 3 UK
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a108.png",BT Sport 3 UK 5f96
 acestream://5f966c123759de46dff29c379266b7a403452033 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a98.png",BT Sport 4 UK
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a98.png",BT Sport 4 UK fc50
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a92.png",Sky Sports Arena UK
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a92.png",Sky Sports Arena UK d317
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a90.png",Sky Sports PREMIER LEAGUE UK
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a90.png",Sky Sports PREMIER LEAGUE UK 8d97
 acestream://8d976b2a90dce3b57ed094bd8a6152335c66bbc9 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a91.png",Sky Sports Football UK
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a91.png",Sky Sports Football UK 8dbe
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png",Sky Sports Main Event UK
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png",Sky Sports Main Event UK eab7
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a117.png",Sky Sports Plus UK
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a117.png",Sky Sports Plus UK ec5e
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a95.png",Premier Sports 1 UK
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a95.png",Premier Sports 1 UK 75a5
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1442.png",Premier Sports 2 UK
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1442.png",Premier Sports 2 UK 4903
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 1 [DE]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 1 [DE] a731
 acestream://a7319ebd54cb1db9a9db1574929ca8d305a323d3 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 2 [DE]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 2 [DE] e360
 acestream://e360a96fb4bbe1cb8a7862a6514c4c284eeec466 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 3 [DE]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 3 [DE] 8b3c
 acestream://8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 4 [DE]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 4 [DE] 784d
 acestream://784da1ced871f6d3f6bf25f29664bfd39f6130a6 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 5 [DE]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 5 [DE] 8128
 acestream://81284e9a279ee23cbc4a7400bd9531f127d20fe5 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 6 [DE]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png",RTL+ SPORT EVENT 6 [DE] c065
 acestream://c065ab169f75ced1d34fbcab6b84a5fa4ca73e30 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a150.png",Eurosport 1 HD [DE]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a150.png",Eurosport 1 HD [DE] b8ca
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a151.png",Eurosport 2 HD [DE]
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a151.png",Eurosport 2 HD [DE] ac67
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a400.png",BeIN Sports 1 BE
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a400.png",BeIN Sports 1 BE bba1
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a401.png",BeIN Sports 2 BE
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a401.png",BeIN Sports 2 BE edb5
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a402.png",BeIN Sports 3 BE
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a402.png",BeIN Sports 3 BE 731b
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png",Eleven Sports 1 PT
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png",Eleven Sports 1 PT 36ca
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1501.png",Eleven Sports 2 PT
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1501.png",Eleven Sports 2 PT d080
 acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1502.png",Eleven Sports 3 PT
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1502.png",Eleven Sports 3 PT dae7
 acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1557.png",Eleven Sports 4 PT
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1557.png",Eleven Sports 4 PT 0f32
 acestream://0f32c0131a2d9444996410801f4e18b04384db98 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1558.png",Eleven Sports 5 PT
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1558.png",Eleven Sports 5 PT 4dbe
 acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png",Eleven Sports 6 PT
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png",Eleven Sports 6 PT 50b6
 acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80 
-#EXTINF:-1 tvg-logo="https://picon.ml/setanta-sports1.png",Setanta Sports
+#EXTINF:-1 tvg-logo="https://picon.ml/setanta-sports1.png",Setanta Sports 7206
 acestream://72066549fbfd3f755853fe9467586b7debf01f60 
-#EXTINF:-1 tvg-logo="https://picon.ml/setanta-sports1.png",Setanta Sports 1
+#EXTINF:-1 tvg-logo="https://picon.ml/setanta-sports1.png",Setanta Sports 1 b992
 acestream://b99278331ad806f1463fcd3bf53befa5530d86da 
-#EXTINF:-1 tvg-logo="https://picon.ml/setanta-sports1.png",Setanta Sports 1
+#EXTINF:-1 tvg-logo="https://picon.ml/setanta-sports1.png",Setanta Sports 1 8b70
 acestream://8b70ef2d42e2adac57e90f68847eadfc356c04d2 
-#EXTINF:-1 tvg-logo="https://picon.ml/setanta-sports2.png",Setanta Sports 2
+#EXTINF:-1 tvg-logo="https://picon.ml/setanta-sports2.png",Setanta Sports 2 9b8f
 acestream://9b8feebaf07ced9351ad88da77ef617f82626c4b 
-#EXTINF:-1 tvg-logo="https://picon.ml/setanta-sports2.png",Setanta Sports 2
+#EXTINF:-1 tvg-logo="https://picon.ml/setanta-sports2.png",Setanta Sports 2 02ab
 acestream://02ab7a40891a8cc1aa7e29e0eff279abc4a4188e 
-#EXTINF:-1 tvg-logo="",Test#1
+#EXTINF:-1 tvg-logo="",Test#1 6787
 acestream://6787f3da55f10d25221f606226b0c5217cad62b3 
-#EXTINF:-1 tvg-logo="",Test#2
+#EXTINF:-1 tvg-logo="",Test#2 eee5
 acestream://eee55e3af2ad492cc7cef9b8587f7b5a9b2ad565 
-#EXTINF:-1 tvg-logo="",Test#3
+#EXTINF:-1 tvg-logo="",Test#3 c0f8
 acestream://c0f86bea2a21d84f24be2824a4ccd6cb9dad8ab3 
-#EXTINF:-1 tvg-logo="",Test#4
+#EXTINF:-1 tvg-logo="",Test#4 e6d5
 acestream://e6d53415a4d5c4ce4aff27b3685b5c344699bee4 
+
 
